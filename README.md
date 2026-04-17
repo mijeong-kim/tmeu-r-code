@@ -1,4 +1,4 @@
-# EJS Code Release
+# Efficient Targeted Maximum Likelihood Estimation of Average Treatment Effects
 
 This folder contains a GitHub-ready subset of the code used for the paper
 
